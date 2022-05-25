@@ -1,0 +1,16 @@
+{
+    "game": "BTF",
+    "version": "v1.0a",
+    "patch": "1",
+    "update" : {
+        "additions" : [
+            "+ Tons of terrible JS code"
+        ],
+        "removals" : [
+            "- My sanity"
+        ],
+        "fixed" : [
+            "[= My Life]"
+        ]
+    }
+}
